@@ -1,6 +1,6 @@
-<h1 align="center">Hey ! Rupam this side ! ✋</h1>
+![Header](./rupam-header-image.png)
+<h1 align="center">A Full Stack Web Developer from India </h1>
 <br>
-<h3>A Full Stack Web Developer from India.</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fk28c9gwjnfks406aumaf09dt0aen9my79207faf&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Web Development**
